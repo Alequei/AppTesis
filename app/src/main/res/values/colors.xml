@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPurple">#8E22BE</color>
+    <color name="colorPlomo1">#38000000</color>
+    <color name="colorPlomo2">#0A000000</color>
+    <color name="colorDark">#000000</color>
+    <color name="colorTrasparente">#00000000</color>
+</resources>
